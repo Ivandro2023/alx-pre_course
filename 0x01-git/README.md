@@ -1,1 +1,1 @@
-My second commit in this second file 
+ALX PRE COURSE DESCRIPTION 
